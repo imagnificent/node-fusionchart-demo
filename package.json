@@ -13,6 +13,7 @@
     "url": "https://github.com/Apidcloud/node-fusionchart-demo.git"
   },
   "dependencies": {
+    "bulma": "^0.7.2",
     "express": "4.15.4",
     "express-handlebars": "3.0.0",
     "mongodb": "2.2.31"

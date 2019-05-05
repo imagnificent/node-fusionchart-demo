@@ -1,0 +1,29 @@
+html {}
+
+body {
+    TEXT-ALIGN: center;
+    background-color: #004e92!important;
+}
+
+#center {
+    MARGIN-RIGHT: auto;
+    MARGIN-LEFT: auto;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: #004e92!important;
+}
+
+.nav {
+    background-color: #3A3A4F;
+    width: 100%;
+    height: 63px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    line-height: 55px;
+}
